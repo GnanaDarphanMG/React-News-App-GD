@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//GnanaDarphanMG.github.io/React-News-App-GD/static/css/main.36390bb1.css",
+    "main.js": "/http//GnanaDarphanMG.github.io/React-News-App-GD/static/js/main.86054c21.js",
+    "index.html": "/http//GnanaDarphanMG.github.io/React-News-App-GD/index.html",
+    "main.36390bb1.css.map": "/http//GnanaDarphanMG.github.io/React-News-App-GD/static/css/main.36390bb1.css.map",
+    "main.86054c21.js.map": "/http//GnanaDarphanMG.github.io/React-News-App-GD/static/js/main.86054c21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36390bb1.css",
+    "static/js/main.86054c21.js"
+  ]
+}
